@@ -41,17 +41,23 @@ nav span {
 
 .main {
   display: flex;
-  width: 1200px;
+  width: 1232px;
+  margin: 0 auto 78px auto;
+  padding-top: 116px;
+  border: 1px solid black;
 }
 
 .column.large {
   width: 630px;
+  display: flex;
 }
 
 .column.medium {
   width: 300px;
+  display: flex;
 }
 
 .column.small {
   width: 240px;
+  display: flex;
 }
